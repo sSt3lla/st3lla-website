@@ -31,3 +31,7 @@ url = "personal_posts"
   show_more = true
   show_more_text = "See more posts..."
   show_more_url = "personal_posts"
+
+[[entries]]
+title = "source code for this website"
+url = "https://github.com/sSt3lla/st3lla-website"
