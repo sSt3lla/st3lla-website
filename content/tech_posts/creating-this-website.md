@@ -5,17 +5,16 @@ draft = false
 +++
 
 Steps I made for this website to exist
-- Creating it
-- Registering it
-- Using cloudflare to host
+- [Creating](#creating)
+- [Registering](#Registering)
+- [Hosting](#Hosting)
 
-# Creating it
+# Creating
 I feel like most people want to create a website from the ground up (hosting, programming etc), but I just wanted content on the web so I choose [hugo](https://gohugo.io/) with the theme of [miniamlise](https://github.com/g-hw/hugo-theme-nostyleplease)
 
 I choose hugo because a friend was using this for their blog and recommended it to me. Everything is basically just markdown and .toml which means I can avoid CSS which is nice :)
 
-
-# Registering it
+# Registering
 For finding the cheapest domain possible I went with [Z.com](https://z.com/), no other reason
 
 # Hosting
