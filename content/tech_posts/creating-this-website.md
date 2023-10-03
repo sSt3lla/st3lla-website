@@ -6,8 +6,8 @@ draft = false
 
 Steps I made for this website to exist
 - [Creating](#creating)
-- [Registering](#Registering)
-- [Hosting](#Hosting)
+- [Registering](#registering)
+- [Hosting](#hosting)
 
 # Creating
 I feel like most people want to create a website from the ground up (hosting, programming etc), but I just wanted content on the web so I choose [hugo](https://gohugo.io/) with the theme of [miniamlise](https://github.com/g-hw/hugo-theme-nostyleplease)
