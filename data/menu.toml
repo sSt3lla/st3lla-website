@@ -1,0 +1,33 @@
+[[entries]]
+title = "me"
+url = "about"
+
+  [[entries.entries]]
+  title = "discord: s1utty_st3lla"
+
+  [[entries.entries]]
+  title = "github repo"
+  url = "https://github.com/sSt3lla"
+
+[[entries]]
+title = "tech posts"
+url = "tech_posts"
+
+  [entries.post_list]
+  section = "tech_posts"
+  limit = 5
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "tech_posts"
+
+
+[[entries]]
+title = "personal posts"
+url = "personal_posts"
+
+  [entries.post_list]
+  section = "personal_posts"
+  limit = 1
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "personal_posts"

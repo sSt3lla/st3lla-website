@@ -1,0 +1,4 @@
+baseURL = 'https://st3lla.gay'
+languageCode = 'en-us'
+title = 'My tech and personal site'
+theme = 'nostyleplease'
